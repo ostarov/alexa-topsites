@@ -1,3 +1,7 @@
+
+#ATTENTION: updated by "ostarov" to support categories and newer Alexa's html.
+
+
 #Alexa Top Sites Scraper
 
 This script does not use the official [Alexa API](http://docs.aws.amazon.com/AlexaTopSites/latest/) but is a page scraper. Anyone looking for a robust solution should use the official API since all page scrapers are fragile to page changes.
