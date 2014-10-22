@@ -1,5 +1,5 @@
 
-#ATTENTION: updated by "ostarov" to support categories and newer Alexa's html.
+#Updated by "ostarov" to support categories and newer Alexa's html.
 
 
 #Alexa Top Sites Scraper
